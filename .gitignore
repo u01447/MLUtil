@@ -1,0 +1,38 @@
+# Python
+*.py[cod]
+
+# Pycharm
+.idea/
+
+# VS
+.vscode
+
+# Logs
+/runlog/
+logs/
+*.log
+
+# twisted trial test cache file
+_trial_temp/
+
+# Personal Config File
+game.yml
+service.json
+
+# vim swap file
+*.swp
+
+# Third Party Lib in Git
+msg_interface
+
+# Unit test / coverage reports
+.cache*
+tests/.cache*
+__pycache__/
+
+*.pid
+
+docs/_build/
+
+# vim ctags
+tags
